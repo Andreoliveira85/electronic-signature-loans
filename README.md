@@ -7,4 +7,4 @@ Confrontation of several Machine Learning algorithms to predict (classification)
 ## Code and resources used:
 **Python version:** 3.7
 **Packages:libraries:** numpy, pandas, matplotlib, scikitlearn, math, keras.
-**Datasets:** available at Kaggle
+**Datasets:** dataset from anonymous private company available in the repo.
